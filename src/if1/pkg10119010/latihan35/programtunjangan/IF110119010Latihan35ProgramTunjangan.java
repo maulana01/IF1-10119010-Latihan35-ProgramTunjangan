@@ -21,9 +21,10 @@ public class IF110119010Latihan35ProgramTunjangan {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Tunjangan.inputData();
-        Tunjangan.cekStatus();
-        Tunjangan.tampilFormat();
+        Tunjangan gaji = new Tunjangan();
+        gaji.inputData();
+        gaji.cekStatus();
+        gaji.tampilFormat();
     }
     
 }
