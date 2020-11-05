@@ -10,6 +10,11 @@ import java.util.Scanner;
 /**
  *
  * @author Maulana Imam Malik
+ * NAMA     : Maulana Imam Malik
+ * KELAS    : IF1
+ * NIM      : 10119010
+ * Deskripsi Program : Program ini berisi program untuk menampilkan tunjangan
+ *                     saldo dengan konsep OOP
  */
 public class Tunjangan {
     
